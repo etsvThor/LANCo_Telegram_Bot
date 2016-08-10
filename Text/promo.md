@@ -1,0 +1,1 @@
+Here promo text will spwan
