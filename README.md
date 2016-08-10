@@ -1,4 +1,3 @@
-![Thor logo](Promo/header.png)
 # LANCo Telegram Bot
 
 This is the Github repository of the LANCo commission of e.t.s.v.
@@ -18,9 +17,9 @@ Just open this  link to start chatting with the TesLAN bot
 - [ ] Faster poster function
 - [ ] More integration
 
-<img src="Promo/Thorlogo.png" alt="Thor logo" style="width:250px;">
-<img src="Promo/teslan1.png" alt="Thor logo" style=" ;height:250px">
-<img src="Promo/Lanco.png" alt="Thor logo" style=" ;height:250px">
+<img src="Promo/Thorlogo.png" alt="Thor logo" style="width:150px;">
+<img src="Promo/Lanco.png" alt="Thor logo" style="height:150px;">
+<img src="Promo/teslan1.png" alt="Thor logo" style="height:150px;">
 
 ---
 
@@ -28,13 +27,16 @@ Just open this  link to start chatting with the TesLAN bot
 
 ### Inline mode
 
-If you want to use the in-line mode of the bot just type
+If you want to use the in-line mode of the bot just type @TesLAN_bot
 
  ```
 @TesLAN_bot
  ```
+ In any chat and you will be able to chose the available tournaments for more information
 
-In any chat and you will be able to chose any of the available tournaments for more information
+
+<img src="Promo/inline2.png" alt="Thor logo" style="height:550px">
+<img src="Promo/inline1.png" alt="Thor logo" style="height:550px">
 
 ### Group chat mode
 
@@ -50,8 +52,11 @@ Currently the commands the TesLAN bot accepts and knows are the following :
   /games - List all the competitions of the TesLAN
   /poster -Displays the TesLAN poster
 ```
+<img src="Promo/chat1.png" alt="Thor logo" style="height:550px">
+<img src="Promo/chat2.png" alt="Thor logo" style="height:550px">
 
 
-#### Changelog
+### Changelog
 
 - V0.1 First public release
+- V0.11 Update of README.md
