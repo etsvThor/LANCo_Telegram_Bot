@@ -17,9 +17,9 @@ Just open this  link to start chatting with the TesLAN bot
 - [ ] Faster poster function
 - [ ] More integration
 
-<img src="Promo/Thorlogo.png" alt="Thor logo" style="width:150px;">
-<img src="Promo/Lanco.png" alt="Thor logo" style="height:150px;">
-<img src="Promo/teslan1.png" alt="Thor logo" style="height:150px;">
+<img src="Promo/Thorlogo.png" alt="Thor logo" width="150px">
+<img src="Promo/Lanco.png" alt="Thor logo" height="150px">
+<img src="Promo/teslan1.png" alt="Thor logo" height="150px">
 
 ---
 
@@ -35,8 +35,8 @@ If you want to use the in-line mode of the bot just type @TesLAN_bot
  In any chat and you will be able to chose the available tournaments for more information
 
 
-<img src="Promo/inline2.png" alt="Thor logo" style="height:550px">
-<img src="Promo/inline1.png" alt="Thor logo" style="height:550px">
+<img src="Promo/inline2.png"  height="550px">
+<img src="Promo/inline1.png"  height="550px">
 
 ### Group chat mode
 
@@ -52,8 +52,8 @@ Currently the commands the TesLAN bot accepts and knows are the following :
   /games - List all the competitions of the TesLAN
   /poster -Displays the TesLAN poster
 ```
-<img src="Promo/chat1.png" alt="Thor logo" style="height:550px">
-<img src="Promo/chat2.png" alt="Thor logo" style="height:550px">
+<img src="Promo/chat1.png" height="550px" >
+<img src="Promo/chat2.png" height="550px" >
 
 
 ### Changelog
